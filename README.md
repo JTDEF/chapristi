@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
+
 **-ME CHAPRISTI**📒 <br/>
 Hey i'm charpisti i'm 15 years old and I learn **HTML** , **CSS** and **PHP** <br><br>
 **-TECHNOLOGIE**🧬<br><br>
@@ -15,3 +17,4 @@ Hey i'm charpisti i'm 15 years old and I learn **HTML** , **CSS** and **PHP** <b
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chapristi&show_icons=true&theme=radical)
 
 
+<img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
