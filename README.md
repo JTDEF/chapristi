@@ -11,7 +11,7 @@ Hey i'm charpisti i'm 15 years old and i learn **HTML** , **CSS** and **PHP** <b
 
 
 
-**STATS** 📈<br><br>
+**-STATS** 📈<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chapristi&show_icons=true&theme=radical)
 
 
